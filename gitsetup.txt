@@ -1,5 +1,4 @@
-You can download git here: http://git-scm.com/downloads
-
+OYou can download git here: http://git-scm.com/download
 Install Git with default settings.
 
 Generating a pair of ssh keys:
@@ -13,3 +12,6 @@ Username and email settings:
      git config --global user.name “Vitali Shulha“
 
      git config --global user.email “vitali_Shulha@epam.com"
+
+     TO PUSH - GIT PUSH
+     TO COMMITE - GET COMMIT -M
