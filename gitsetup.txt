@@ -16,5 +16,6 @@ Username and email settings:
      TO PUSH - GIT PUSH
      TO COMMITE - GET COMMIT -M
      TO ADD AFTER COMMIT - GIT ADD " FILE NAME"
-Git gui
+     To PULL - GIT PULL
+    
 
