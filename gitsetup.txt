@@ -7,6 +7,19 @@ Generating a pair of ssh keys:
 
 The public key (id_rsa) should be sent to the owner of the repository in order to obtain work rights. Or upload to profile settings in bitbucket / github / gitlab.
 
+<<<<<<< HEAD
 ```````````````````````````````````````
     
+=======
+Username and email settings:
+
+     git config --global user.name “Vitali Shulha“
+
+     git config --global user.email “vitali_Shulha@epam.com"
+
+     TO PUSH - GIT PUSH
+     TO COMMITE - GET COMMIT -M
+     TO ADD AFTER COMMIT - GIT ADD " FILE NAME"
+Git gui
+>>>>>>> parent of 99e9b34 (Git pull)
 
